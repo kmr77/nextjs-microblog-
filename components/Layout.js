@@ -4,8 +4,8 @@ import utilStyles from "../styles/utils.module.css"
 import Link from "next/link";
 
 
-const name = "NEXJS";
-export const siteTitle = "NEXTJS練習用ブログ";
+const name = "Next.JS";
+export const siteTitle = "Next.JS練習用ブログ";
 
 function Layout({children, home}) {
     return (
